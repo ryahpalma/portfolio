@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Ryan Palma"
   text: "Dev Backend & Engenheiro de Nuvem"
-  tagline: Desenvolvimento de sistemas, lojas ou sites, que derão retornos significativos em seus negócios.
+  tagline: Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.
   image:
     src: /ryan-profile.webp
     alt: Ryan Palma
