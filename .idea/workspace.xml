@@ -7,6 +7,7 @@
     <list default="true" id="be65338d-b626-4d13-94bc-84760702f043" name="Changes" comment="fix grammar and open graph">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vitepress/config.mts" beforeDir="false" afterPath="$PROJECT_DIR$/.vitepress/config.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/site.webmanifest" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,8 @@
       <workItem from="1741844243477" duration="10581000" />
       <workItem from="1741929063084" duration="2745000" />
       <workItem from="1741931838490" duration="4184000" />
-      <workItem from="1741936826287" duration="422000" />
+      <workItem from="1741936826287" duration="613000" />
+      <workItem from="1741937830471" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix reverse proxy">
       <option name="closed" value="true" />

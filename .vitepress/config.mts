@@ -30,7 +30,6 @@ export default defineConfig({
                 ['link', {rel: 'shortcut icon', href: '/favicon.ico'}],
                 ['link', {rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png'}],
                 ['meta', {name: 'apple-mobile-web-app-title', content: 'Ryan Palma'}],
-                ['link', {rel: 'manifest', href: '/site.webmanifest'}],
 
                 // Open Graph Desktop
                 ['meta', {property: 'og:title', content: 'Ryan Palma - Desenvolvedor Backend'}],
@@ -38,7 +37,7 @@ export default defineConfig({
                     property: 'og:description',
                     content: 'Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.'
                 }],
-                ['meta', {property: 'og:image', content: '/og-image-desktop.png'}],
+                ['meta', {property: 'og:image', content: 'https://ryahpalma.dev/og-image-desktop.png'}],
                 ['meta', {property: 'og:image:width', content: '1200'}],
                 ['meta', {property: 'og:image:height', content: '630'}],
                 ['meta', {property: 'og:image:alt', content: 'Banner'}],
@@ -46,7 +45,7 @@ export default defineConfig({
                 ['meta', {property: 'og:url', content: 'https://ryahpalma.dev'}],
 
                 // Open Graph Mobile
-                ['meta', {property: 'og:image', content: '/og-image-mobile.png'}],
+                ['meta', {property: 'og:image', content: 'https://ryahpalma.dev/og-image-mobile.png'}],
                 ['meta', {property: 'og:image:width', content: '800'}],
                 ['meta', {property: 'og:image:height', content: '600'}],
 
@@ -57,7 +56,7 @@ export default defineConfig({
                     name: 'twitter:description',
                     content: 'Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.'
                 }],
-                ['meta', {name: 'twitter:image', content: '/og-image-desktop.png'}],
+                ['meta', {name: 'twitter:image', content: 'https://ryahpalma.dev/og-image-desktop.png'}],
                 ['meta', {name: 'twitter:image:alt', content: 'Banner'}],
                 ['meta', {name: 'twitter:site', content: '@ryahpalma'}],
 
@@ -132,7 +131,6 @@ export default defineConfig({
                 ['link', {rel: 'shortcut icon', href: '/favicon.ico'}],
                 ['link', {rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png'}],
                 ['meta', {name: 'apple-mobile-web-app-title', content: 'Ryan Palma'}],
-                ['link', {rel: 'manifest', href: '/site.webmanifest'}],
 
                 // Open Graph Desktop
                 ['meta', {property: 'og:title', content: 'Ryan Palma - Backend Developer'}],
@@ -140,7 +138,7 @@ export default defineConfig({
                     property: 'og:description',
                     content: 'Development of systems, stores, or websites that will bring significant returns to your business.'
                 }],
-                ['meta', {property: 'og:image', content: '/og-image-desktop.png'}],
+                ['meta', {property: 'og:image', content: 'https://ryahpalma.dev/og-image-desktop.png'}],
                 ['meta', {property: 'og:image:width', content: '1200'}],
                 ['meta', {property: 'og:image:height', content: '630'}],
                 ['meta', {property: 'og:image:alt', content: 'Banner'}],
@@ -148,7 +146,7 @@ export default defineConfig({
                 ['meta', {property: 'og:url', content: 'https://ryahpalma.dev/en'}],
 
                 // Open Graph Mobile
-                ['meta', {property: 'og:image', content: '/og-image-mobile.png'}],
+                ['meta', {property: 'og:image', content: 'https://ryahpalma.dev/og-image-mobile.png'}],
                 ['meta', {property: 'og:image:width', content: '800'}],
                 ['meta', {property: 'og:image:height', content: '600'}],
 
@@ -159,7 +157,7 @@ export default defineConfig({
                     name: 'twitter:description',
                     content: 'Development of systems, stores, or websites that will bring significant returns to your business.'
                 }],
-                ['meta', {name: 'twitter:image', content: '/og-image-desktop.png'}],
+                ['meta', {name: 'twitter:image', content: 'https://ryahpalma.dev/og-image-desktop.png'}],
                 ['meta', {name: 'twitter:image:alt', content: 'Banner'}],
                 ['meta', {name: 'twitter:site', content: '@ryahpalma'}],
 
