@@ -20,7 +20,7 @@ export default defineConfig({
     locales: {
         root: {
             title: "Ryan Palma - Desenvolvedor Backend",
-            description: "Desenvolvedor backend há mais de 5 anos, especialista em desenvolvimento de sistemas",
+            description: "Desenvolvedor backend há mais de 5 anos, especialista em desenvolvimento de sistemas, sites ou lojas",
             label: 'Português',
             lang: 'pt',
             head: [
@@ -34,7 +34,7 @@ export default defineConfig({
 
                 // Open Graph Desktop
                 ['meta', {property: 'og:title', content: 'Ryan Palma - Desenvolvedor Backend'}],
-                ['meta', {property: 'og:description', content: 'Desenvolvimento de sistemas, lojas ou sites, que derão retornos significativos em seus negócios.'}],
+                ['meta', {property: 'og:description', content: 'Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.'}],
                 ['meta', {property: 'og:image', content: '/og-image-desktop.png'}],
                 ['meta', {property: 'og:image:width', content: '1200'}],
                 ['meta', {property: 'og:image:height', content: '630'}],
@@ -50,7 +50,7 @@ export default defineConfig({
                 // Twitter Cards
                 ['meta', {name: 'twitter:card', content: 'summary_large_image'}],
                 ['meta', {name: 'twitter:title', content: 'Ryan Palma - Desenvolvedor Backend'}],
-                ['meta', {name: 'twitter:description', content: 'Desenvolvimento de sistemas, lojas ou sites, que derão retornos significativos em seus negócios.'}],
+                ['meta', {name: 'twitter:description', content: 'Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.'}],
                 ['meta', {name: 'twitter:image', content: '/og-image-desktop.png'}],
                 ['meta', {name: 'twitter:image:alt', content: 'Banner'}],
                 ['meta', {name: 'twitter:site', content: '@ryahpalma'}],
@@ -61,7 +61,7 @@ export default defineConfig({
                     "@type": "WebSite",
                     "name": "Ryan Palma - Desenvolvedor Backend",
                     "url": "https://ryahpalma.dev",
-                    "description": "Desenvolvimento de sistemas, lojas ou sites, que derão retornos significativos em seus negócios.",
+                    "description": "Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.",
                     "image": "https://ryahpalma.dev/og-image-desktop.png",
                     "publisher": {
                         "@type": "Organization",
@@ -99,14 +99,14 @@ export default defineConfig({
                     }
                 ],
                 footer: {
-                    message: 'Lançado sob <a href="https://github.com/ryahpalma/portfolio/blob/main/LICENSE">Licença MIT</a>.',
+                    message: 'Lançado sob <a href="https://opensource.org/license/mit">Licença MIT</a>.',
                     copyright: 'Direitos Reservados © ' + new Date().getFullYear() + ' <a href="https://github.com/ryahpalma">Ryan Palma</a>'
                 }
             },
         },
         en: {
             title: "Ryan Palma - Backend Developer",
-            description: "Backend developer for over 5 years, specialist in systems development",
+            description: "Backend developer for over 5 years, specialist in systems, stores or websites development",
             label: 'English',
             lang: 'en',
             link: '/en',
@@ -178,7 +178,7 @@ export default defineConfig({
                     }
                 ],
                 footer: {
-                    message: 'Released under the <a href="https://github.com/ryahpalma/portfolio/blob/main/LICENSE">MIT License</a>.',
+                    message: 'Released under the <a href="https://opensource.org/license/mit">MIT License</a>.',
                     copyright: 'Copyright © ' + new Date().getFullYear() + ' <a href="https://github.com/ryahpalma">Ryan Palma</a>'
                 }
             },

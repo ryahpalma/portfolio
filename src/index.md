@@ -90,7 +90,7 @@ features:
             <div class="p-6 ">
               <div class="mb-3 font-bold text-[#3c3c42] dark:text-[#deded5]">Erika Martini</div>
               <div class="font-medium text-sm text-[#67676c] dark:text-[#98989f]">
-                Landing page para venda de cursos de estética e beleza com tráfego págo.
+                Landing page para venda de cursos de estética e beleza com tráfego pago.
               </div>
             </div>
         </div>
