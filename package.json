@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.9",
+    "tailwindcss": "^4.0.9",
+    "vitepress": "^1.3.4",
+    "vue": "^3.5.10"
+  },
+  "scripts": {
+    "prod": "vitepress dev --host --clearScreen false --debug false --logLevel silent --no-hmr",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "packageManager": "yarn@4.7.0"
+}

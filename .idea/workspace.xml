@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be65338d-b626-4d13-94bc-84760702f043" name="Changes" comment="trying to fix reverse proxy">
+      <change afterPath="$PROJECT_DIR$/.vitepress/dist/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oYS35dv6OSzMK5cnXPpqO9ltb5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Development/Sites/portfolio/.vitepress/dist",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\Sites\portfolio\.vitepress\dist" />
+      <recent name="D:\Development\Sites\portfolio\src\assets" />
+      <recent name="D:\Development\Sites\portfolio\src\en" />
+      <recent name="D:\Development\Sites\portfolio\src" />
+      <recent name="D:\Development\Sites\portfolio\.vitepress\theme" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\Sites\portfolio\src" />
+      <recent name="D:\Development\Sites\portfolio\src\assets" />
+      <recent name="D:\Development\Sites\portfolio\.vitepress" />
+      <recent name="D:\Development\Sites\portfolio\src\assets\core" />
+      <recent name="D:\Development\Sites\portfolio\pages" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.24807.6" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be65338d-b626-4d13-94bc-84760702f043" name="Changes" comment="" />
+      <created>1731044832783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731044832783</updated>
+      <workItem from="1731044836693" duration="321000" />
+      <workItem from="1731045631658" duration="75000" />
+      <workItem from="1731454651134" duration="45000" />
+      <workItem from="1733207053364" duration="1147000" />
+      <workItem from="1736651161222" duration="34000" />
+      <workItem from="1740801348712" duration="10641000" />
+      <workItem from="1740884961806" duration="3582000" />
+      <workItem from="1741103184832" duration="12082000" />
+      <workItem from="1741285819962" duration="2671000" />
+      <workItem from="1741485140780" duration="1917000" />
+      <workItem from="1741623916765" duration="20394000" />
+      <workItem from="1741706805133" duration="2032000" />
+      <workItem from="1741835605541" duration="8000000" />
+      <workItem from="1741843867344" duration="108000" />
+      <workItem from="1741843998935" duration="218000" />
+      <workItem from="1741844243477" duration="10581000" />
+    </task>
+    <task id="LOCAL-00001" summary="trying to fix reverse proxy">
+      <option name="closed" value="true" />
+      <created>1741854854968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741854854968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="sitemap.xml" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trying to fix reverse proxy" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to fix reverse proxy" />
+  </component>
+</project>
