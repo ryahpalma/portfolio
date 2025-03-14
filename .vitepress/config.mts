@@ -34,7 +34,10 @@ export default defineConfig({
 
                 // Open Graph Desktop
                 ['meta', {property: 'og:title', content: 'Ryan Palma - Desenvolvedor Backend'}],
-                ['meta', {property: 'og:description', content: 'Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.'}],
+                ['meta', {
+                    property: 'og:description',
+                    content: 'Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.'
+                }],
                 ['meta', {property: 'og:image', content: '/og-image-desktop.png'}],
                 ['meta', {property: 'og:image:width', content: '1200'}],
                 ['meta', {property: 'og:image:height', content: '630'}],
@@ -50,7 +53,10 @@ export default defineConfig({
                 // Twitter Cards
                 ['meta', {name: 'twitter:card', content: 'summary_large_image'}],
                 ['meta', {name: 'twitter:title', content: 'Ryan Palma - Desenvolvedor Backend'}],
-                ['meta', {name: 'twitter:description', content: 'Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.'}],
+                ['meta', {
+                    name: 'twitter:description',
+                    content: 'Desenvolvimento de sistemas, lojas ou sites, que trazem retornos significativos em seus negócios.'
+                }],
                 ['meta', {name: 'twitter:image', content: '/og-image-desktop.png'}],
                 ['meta', {name: 'twitter:image:alt', content: 'Banner'}],
                 ['meta', {name: 'twitter:site', content: '@ryahpalma'}],
@@ -76,6 +82,15 @@ export default defineConfig({
             themeConfig: {
                 darkModeSwitchLabel: "Tema Claro/Escuro",
                 returnToTopLabel: "Retonar ao topo",
+                lastUpdated: {
+                    text: "Última atualização",
+                    formatOptions: {
+                        dateStyle: "short",
+                        timeStyle: "short",
+                        timeZone: "America/Sao_Paulo",
+                        forceLocale: true,
+                    },
+                },
                 outline: {
                     label: "Nessa Página"
                 },
@@ -121,7 +136,10 @@ export default defineConfig({
 
                 // Open Graph Desktop
                 ['meta', {property: 'og:title', content: 'Ryan Palma - Backend Developer'}],
-                ['meta', {property: 'og:description', content: 'Development of systems, stores, or websites that will bring significant returns to your business.'}],
+                ['meta', {
+                    property: 'og:description',
+                    content: 'Development of systems, stores, or websites that will bring significant returns to your business.'
+                }],
                 ['meta', {property: 'og:image', content: '/og-image-desktop.png'}],
                 ['meta', {property: 'og:image:width', content: '1200'}],
                 ['meta', {property: 'og:image:height', content: '630'}],
@@ -137,7 +155,10 @@ export default defineConfig({
                 // Twitter Cards
                 ['meta', {name: 'twitter:card', content: 'summary_large_image'}],
                 ['meta', {name: 'twitter:title', content: 'Ryan Palma - Backend Developer'}],
-                ['meta', {name: 'twitter:description', content: 'Development of systems, stores, or websites that will bring significant returns to your business.'}],
+                ['meta', {
+                    name: 'twitter:description',
+                    content: 'Development of systems, stores, or websites that will bring significant returns to your business.'
+                }],
                 ['meta', {name: 'twitter:image', content: '/og-image-desktop.png'}],
                 ['meta', {name: 'twitter:image:alt', content: 'Banner'}],
                 ['meta', {name: 'twitter:site', content: '@ryahpalma'}],
