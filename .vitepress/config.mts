@@ -32,6 +32,7 @@ export default defineConfig({
                 ['meta', {name: 'apple-mobile-web-app-title', content: 'Ryan Palma'}],
 
                 // Open Graph Desktop
+                ['meta', {property: 'og:site_name', content: 'Ryan Palma'}],
                 ['meta', {property: 'og:title', content: 'Ryan Palma - Desenvolvedor Backend'}],
                 ['meta', {
                     property: 'og:description',
@@ -133,6 +134,7 @@ export default defineConfig({
                 ['meta', {name: 'apple-mobile-web-app-title', content: 'Ryan Palma'}],
 
                 // Open Graph Desktop
+                ['meta', {property: 'og:site_name', content: 'Ryan Palma'}],
                 ['meta', {property: 'og:title', content: 'Ryan Palma - Backend Developer'}],
                 ['meta', {
                     property: 'og:description',
