@@ -25,17 +25,17 @@ export default defineConfig({
             lang: 'pt',
             head: [
                 // Favicon & Manifests
-                ['link', {rel: 'icon', type: 'image/png', href: '/assets/favicon-96x96.png', sizes: '96x96'}],
-                ['link', {rel: 'icon', type: 'image/svg+xml', href: '/assets/favicon.svg'}],
-                ['link', {rel: 'shortcut icon', href: '/assets/favicon.ico'}],
-                ['link', {rel: 'apple-touch-icon', sizes: '180x180', href: '/assets/apple-touch-icon.png'}],
+                ['link', {rel: 'icon', type: 'image/png', href: '/favicon-96x96.png', sizes: '96x96'}],
+                ['link', {rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg'}],
+                ['link', {rel: 'shortcut icon', href: '/favicon.ico'}],
+                ['link', {rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png'}],
                 ['meta', {name: 'apple-mobile-web-app-title', content: 'Ryan Palma'}],
-                ['link', {rel: 'manifest', href: '/assets/site.webmanifest'}],
+                ['link', {rel: 'manifest', href: '/site.webmanifest'}],
 
                 // Open Graph Desktop
                 ['meta', {property: 'og:title', content: 'Ryan Palma - Desenvolvedor Backend'}],
                 ['meta', {property: 'og:description', content: 'Desenvolvimento de sistemas, lojas ou sites, que derão retornos significativos em seus negócios.'}],
-                ['meta', {property: 'og:image', content: '/assets/og-image-desktop.png'}],
+                ['meta', {property: 'og:image', content: '/og-image-desktop.png'}],
                 ['meta', {property: 'og:image:width', content: '1200'}],
                 ['meta', {property: 'og:image:height', content: '630'}],
                 ['meta', {property: 'og:image:alt', content: 'Banner'}],
@@ -43,7 +43,7 @@ export default defineConfig({
                 ['meta', {property: 'og:url', content: 'https://ryahpalma.dev'}],
 
                 // Open Graph Mobile
-                ['meta', {property: 'og:image', content: '/assets/og-image-mobile.png'}],
+                ['meta', {property: 'og:image', content: '/og-image-mobile.png'}],
                 ['meta', {property: 'og:image:width', content: '800'}],
                 ['meta', {property: 'og:image:height', content: '600'}],
 
@@ -51,7 +51,7 @@ export default defineConfig({
                 ['meta', {name: 'twitter:card', content: 'summary_large_image'}],
                 ['meta', {name: 'twitter:title', content: 'Ryan Palma - Desenvolvedor Backend'}],
                 ['meta', {name: 'twitter:description', content: 'Desenvolvimento de sistemas, lojas ou sites, que derão retornos significativos em seus negócios.'}],
-                ['meta', {name: 'twitter:image', content: '/assets/og-image-desktop.png'}],
+                ['meta', {name: 'twitter:image', content: '/og-image-desktop.png'}],
                 ['meta', {name: 'twitter:image:alt', content: 'Banner'}],
                 ['meta', {name: 'twitter:site', content: '@ryahpalma'}],
 
@@ -62,13 +62,13 @@ export default defineConfig({
                     "name": "Ryan Palma - Desenvolvedor Backend",
                     "url": "https://ryahpalma.dev",
                     "description": "Desenvolvimento de sistemas, lojas ou sites, que derão retornos significativos em seus negócios.",
-                    "image": "https://ryahpalma.dev/assets/og-image-desktop.png",
+                    "image": "https://ryahpalma.dev/og-image-desktop.png",
                     "publisher": {
                         "@type": "Organization",
                         "name": "Ryan Palma",
                         "logo": {
                             "@type": "ImageObject",
-                            "url": "https://ryahpalma.dev/assets/web-app-manifest-512x512.png"
+                            "url": "https://ryahpalma.dev/web-app-manifest-512x512.png"
                         }
                     }
                 })]
@@ -112,17 +112,17 @@ export default defineConfig({
             link: '/en',
             head: [
                 // Favicon & Manifests
-                ['link', {rel: 'icon', type: 'image/png', href: '/assets/favicon-96x96.png', sizes: '96x96'}],
-                ['link', {rel: 'icon', type: 'image/svg+xml', href: '/assets/favicon.svg'}],
-                ['link', {rel: 'shortcut icon', href: '/assets/favicon.ico'}],
-                ['link', {rel: 'apple-touch-icon', sizes: '180x180', href: '/assets/apple-touch-icon.png'}],
+                ['link', {rel: 'icon', type: 'image/png', href: '/favicon-96x96.png', sizes: '96x96'}],
+                ['link', {rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg'}],
+                ['link', {rel: 'shortcut icon', href: '/favicon.ico'}],
+                ['link', {rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png'}],
                 ['meta', {name: 'apple-mobile-web-app-title', content: 'Ryan Palma'}],
-                ['link', {rel: 'manifest', href: '/assets/site.webmanifest'}],
+                ['link', {rel: 'manifest', href: '/site.webmanifest'}],
 
                 // Open Graph Desktop
                 ['meta', {property: 'og:title', content: 'Ryan Palma - Backend Developer'}],
                 ['meta', {property: 'og:description', content: 'Development of systems, stores, or websites that will bring significant returns to your business.'}],
-                ['meta', {property: 'og:image', content: '/assets/og-image-desktop.png'}],
+                ['meta', {property: 'og:image', content: '/og-image-desktop.png'}],
                 ['meta', {property: 'og:image:width', content: '1200'}],
                 ['meta', {property: 'og:image:height', content: '630'}],
                 ['meta', {property: 'og:image:alt', content: 'Banner'}],
@@ -130,7 +130,7 @@ export default defineConfig({
                 ['meta', {property: 'og:url', content: 'https://ryahpalma.dev/en'}],
 
                 // Open Graph Mobile
-                ['meta', {property: 'og:image', content: '/assets/og-image-mobile.png'}],
+                ['meta', {property: 'og:image', content: '/og-image-mobile.png'}],
                 ['meta', {property: 'og:image:width', content: '800'}],
                 ['meta', {property: 'og:image:height', content: '600'}],
 
@@ -138,7 +138,7 @@ export default defineConfig({
                 ['meta', {name: 'twitter:card', content: 'summary_large_image'}],
                 ['meta', {name: 'twitter:title', content: 'Ryan Palma - Backend Developer'}],
                 ['meta', {name: 'twitter:description', content: 'Development of systems, stores, or websites that will bring significant returns to your business.'}],
-                ['meta', {name: 'twitter:image', content: '/assets/og-image-desktop.png'}],
+                ['meta', {name: 'twitter:image', content: '/og-image-desktop.png'}],
                 ['meta', {name: 'twitter:image:alt', content: 'Banner'}],
                 ['meta', {name: 'twitter:site', content: '@ryahpalma'}],
 
@@ -149,13 +149,13 @@ export default defineConfig({
                     "name": "Ryan Palma - Backend Developer",
                     "url": "https://ryahpalma.dev/en",
                     "description": "Development of systems, stores, or websites that will bring significant returns to your business.",
-                    "image": "https://ryahpalma.dev/assets/og-image-desktop.png",
+                    "image": "https://ryahpalma.dev/og-image-desktop.png",
                     "publisher": {
                         "@type": "Organization",
                         "name": "Ryan Palma",
                         "logo": {
                             "@type": "ImageObject",
-                            "url": "https://ryahpalma.dev/assets/web-app-manifest-512x512.png"
+                            "url": "https://ryahpalma.dev/web-app-manifest-512x512.png"
                         }
                     }
                 })]
@@ -187,8 +187,8 @@ export default defineConfig({
     themeConfig: {
         siteTitle: false,
         logo: {
-            light: '/assets/logo-light.svg',
-            dark: '/assets/logo-dark.svg',
+            light: '/logo-light.svg',
+            dark: '/logo-dark.svg',
             alt: 'Logo Ryan Palma'
         },
         search: {
@@ -221,5 +221,5 @@ export default defineConfig({
             {icon: 'whatsapp', link: 'https://wa.me/5512988878268'},
             {icon: 'linkedin', link: 'https://linkedin.com/in/ryahpalma'},
         ]
-    }
+    },
 })

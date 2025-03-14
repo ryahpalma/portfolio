@@ -7,7 +7,7 @@ hero:
   text: "Backend Dev & Cloud Engineer"
   tagline: Development of systems, stores, or websites that will bring significant returns to your business.
   image:
-    src: ../assets/ryan-profile.webp
+    src: /ryan-profile.webp
     alt: Ryan Palma
   actions:
     - theme: brand
@@ -36,7 +36,7 @@ features:
     <div class="mt-11 rounded-md grid w-full grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
         <div class="rounded-lg bg-[#f7f7f7] dark:bg-[#202127] text-card-foreground">
             <a target="_noblank" href="https://beneficios.viteplan.com.br/">
-                <img src="../assets/projects-viteplan.webp" alt="VitePlan"
+                <img src="/projects-viteplan.webp" alt="VitePlan"
                   class="aspect-video w-full object-cover rounded-t-md" />
             </a>
             <div class="p-6">
@@ -48,7 +48,7 @@ features:
         </div>
         <div class="rounded-lg bg-[#f7f7f7] dark:bg-[#202127] text-card-foreground">
             <a target="_noblank" href="https://www.simconceito.com">
-                <img src="../assets/projects-simconceito.webp" alt="Sim Conceito"
+                <img src="/projects-simconceito.webp" alt="Sim Conceito"
                   class="aspect-video w-full object-cover rounded-t-md" />
             </a>
             <div class="p-6">
@@ -60,7 +60,7 @@ features:
         </div>
         <div class="rounded-lg bg-[#f7f7f7] dark:bg-[#202127] text-card-foreground">
             <a target="_noblank" href="https://www.mouramulticar.com">
-                <img src="../assets/projects-mouramulticar.webp" alt="Moura Multicar"
+                <img src="/projects-mouramulticar.webp" alt="Moura Multicar"
                   class="aspect-video w-full object-cover rounded-t-md" />
             </a>
             <div class="p-6">
@@ -72,7 +72,7 @@ features:
         </div>
         <div class="rounded-lg bg-[#f7f7f7] dark:bg-[#202127] text-card-foreground">
             <a target="_noblank" href="https://www.reradvocacia.adv.br">
-                <img src="../assets/projects-reradvocacia.webp" alt="R & R Advocacia"
+                <img src="/projects-reradvocacia.webp" alt="R & R Advocacia"
                   class="aspect-video w-full object-cover rounded-t-md" />
             </a>
             <div class="p-6">
@@ -84,7 +84,7 @@ features:
         </div>
         <div class="rounded-lg bg-[#f7f7f7] dark:bg-[#202127] text-card-foreground">
             <a target="_noblank" href="https://www.erikamartini.com.br">
-                <img src="../assets/projects-erikamartini.webp" alt="Erika Martini"
+                <img src="/projects-erikamartini.webp" alt="Erika Martini"
                   class="aspect-video w-full object-cover rounded-t-md" />
             </a>
             <div class="p-6">
@@ -96,7 +96,7 @@ features:
         </div>
         <div class="rounded-lg bg-[#f7f7f7] dark:bg-[#202127] text-card-foreground">
             <a target="_noblank" href="https://www.ishizukaknives.com">
-                <img src="../assets/projects-ishizukaknives.webp" alt="Ishizuka Knives"
+                <img src="/projects-ishizukaknives.webp" alt="Ishizuka Knives"
                   class="aspect-video w-full object-cover rounded-t-md" />
             </a>
             <div class="p-6">
