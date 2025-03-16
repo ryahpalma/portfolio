@@ -59,5 +59,14 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 .dark::view-transition-old(root) {
   z-index: 9999;
 }
+
+.green {
+  border-color: #2bbe7a !important;
+  color: #2bbe7a !important;
+}
+
+.green:hover {
+  background-color: rgba(61, 214, 140, 0.1) !important;
+}
 </style>
 

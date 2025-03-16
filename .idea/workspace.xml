@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="be65338d-b626-4d13-94bc-84760702f043" name="Changes" comment="fix grammar and open graph">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/config.mts" beforeDir="false" afterPath="$PROJECT_DIR$/.vitepress/config.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/theme/CustomTheme.vue" beforeDir="false" afterPath="$PROJECT_DIR$/.vitepress/theme/CustomTheme.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/en/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/en/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,30 +42,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Development/Sites/portfolio/.vitepress/dist/_vercel/insights&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Development/Sites/portfolio/src/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\Sites\portfolio\src\public" />
       <recent name="D:\Development\Sites\portfolio\.vitepress\dist\_vercel\insights\" />
       <recent name="D:\Development\Sites\portfolio\.vitepress\dist" />
       <recent name="D:\Development\Sites\portfolio\src\assets" />
       <recent name="D:\Development\Sites\portfolio\src\en" />
-      <recent name="D:\Development\Sites\portfolio\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Development\Sites\portfolio\.vitepress\dist" />
@@ -107,7 +109,8 @@
       <workItem from="1741929063084" duration="2745000" />
       <workItem from="1741931838490" duration="4184000" />
       <workItem from="1741936826287" duration="613000" />
-      <workItem from="1741937830471" duration="1481000" />
+      <workItem from="1741937830471" duration="2370000" />
+      <workItem from="1742120136587" duration="4946000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix reverse proxy">
       <option name="closed" value="true" />
