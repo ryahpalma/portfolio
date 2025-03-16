@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be65338d-b626-4d13-94bc-84760702f043" name="Changes" comment="fix grammar and open graph">
+    <list default="true" id="be65338d-b626-4d13-94bc-84760702f043" name="Changes" comment="remove unused files">
+      <change afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/theme/CustomTheme.vue" beforeDir="false" afterPath="$PROJECT_DIR$/.vitepress/theme/CustomTheme.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/en/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/en/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +108,7 @@
       <workItem from="1741931838490" duration="4184000" />
       <workItem from="1741936826287" duration="613000" />
       <workItem from="1741937830471" duration="2370000" />
-      <workItem from="1742120136587" duration="4946000" />
+      <workItem from="1742120136587" duration="5788000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix reverse proxy">
       <option name="closed" value="true" />
@@ -128,7 +126,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741932115921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="improve images, backgrounds and add whatsapp button">
+      <option name="closed" value="true" />
+      <created>1742125310506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742125310506</updated>
+    </task>
+    <task id="LOCAL-00004" summary="remove unused files">
+      <option name="closed" value="true" />
+      <created>1742125563941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742125563941</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +154,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trying to fix reverse proxy" />
     <MESSAGE value="fix grammar and open graph" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix grammar and open graph" />
+    <MESSAGE value="improve images, backgrounds and add whatsapp button" />
+    <MESSAGE value="remove unused files" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unused files" />
   </component>
 </project>
