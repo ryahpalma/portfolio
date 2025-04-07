@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be65338d-b626-4d13-94bc-84760702f043" name="Changes" comment="remove unused files">
-      <change afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
+    <list default="true" id="be65338d-b626-4d13-94bc-84760702f043" name="Changes" comment="add vercel cleanUrls">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Development/Sites/portfolio/src/public",
+    "last_opened_file_path": "D:/Development/Sites/simlazer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,7 +107,8 @@
       <workItem from="1741931838490" duration="4184000" />
       <workItem from="1741936826287" duration="613000" />
       <workItem from="1741937830471" duration="2370000" />
-      <workItem from="1742120136587" duration="5788000" />
+      <workItem from="1742120136587" duration="6153000" />
+      <workItem from="1742685417101" duration="1449000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix reverse proxy">
       <option name="closed" value="true" />
@@ -142,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742125563941</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add vercel cleanUrls">
+      <option name="closed" value="true" />
+      <created>1742126081887</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742126081887</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +164,7 @@
     <MESSAGE value="fix grammar and open graph" />
     <MESSAGE value="improve images, backgrounds and add whatsapp button" />
     <MESSAGE value="remove unused files" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove unused files" />
+    <MESSAGE value="add vercel cleanUrls" />
+    <option name="LAST_COMMIT_MESSAGE" value="add vercel cleanUrls" />
   </component>
 </project>
