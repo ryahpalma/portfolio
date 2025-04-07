@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Quero Contratar
-      link: https://calendly.com/hello-ryahpalma/meet-30-min-portugues
+      link: https://calendly.com/hello-ryahpalma/meet-30-min
     - theme: alt
       text: Acessar Blog
       link: /blog
